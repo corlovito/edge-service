@@ -4,7 +4,7 @@ server:
     connection-timeout: 2s
     idle-timeout: 15s
   shutdown: graceful
-
+    # Add some text for make commit
 spring:
   application:
     name: edge-service
